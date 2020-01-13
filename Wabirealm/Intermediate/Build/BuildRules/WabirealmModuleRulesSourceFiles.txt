@@ -1,0 +1,3 @@
+D:\Git\Wabirealm\Wabirealm\Source\Wabirealm\Wabirealm.Build.cs
+D:\Git\Wabirealm\Wabirealm\Source\Wabirealm.Target.cs
+D:\Git\Wabirealm\Wabirealm\Source\WabirealmEditor.Target.cs

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Wabirealm.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\WabirealmEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\CharacterWithBoxCollision.cpp.obj"
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\Wabirealm.cpp.obj"
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\CharacterWithBoxCollision.gen.cpp.obj"
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\Wabirealm.init.gen.cpp.obj"
+"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\Default.rc2.res"
+/OUT:"D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\UE4Editor-Wabirealm.lib"
+/INCLUDE:IMPLEMENT_MODULE_Wabirealm

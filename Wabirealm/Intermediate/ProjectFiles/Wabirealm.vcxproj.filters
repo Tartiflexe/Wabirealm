@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Wabirealm.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3CB08AFD-E253-4255-9D16-A22ADBDCD9D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Wabirealm.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WabirealmEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Wabirealm.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{AA7033F3-2EF4-4D68-81BD-D8A079504231}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Wabirealm">
+      <UniqueIdentifier>{3F7C0E14-3CDF-468E-8266-8F23BBF37A0B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Wabirealm\Wabirealm.Build.cs">
+      <Filter>Source\Wabirealm</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Wabirealm\Wabirealm.cpp">
+      <Filter>Source\Wabirealm</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Wabirealm\Wabirealm.h">
+      <Filter>Source\Wabirealm</Filter>
+    </ClInclude>
+    <Filter Include="Source\Wabirealm\Private">
+      <UniqueIdentifier>{3BA0FC63-D8D1-4841-ACAB-34C3B6CFEC39}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Wabirealm\Private\BoxCharacter.cpp">
+      <Filter>Source\Wabirealm\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Wabirealm\Public">
+      <UniqueIdentifier>{AD421D85-9108-405E-9CAA-917D199AB4FF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Wabirealm\Public\BoxCharacter.h">
+      <Filter>Source\Wabirealm\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+D:\Git\Wabirealm\Wabirealm\Intermediate\Build\Win64\UE4Editor\Development\Wabirealm\Definitions.Wabirealm.h
+d:\git\wabirealm\wabirealm\source\wabirealm\Wabirealm.h
